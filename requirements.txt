@@ -1,0 +1,4 @@
+# Control software (software/switchboard_control.py)
+pyserial==3.5
+pygame==2.6.1
+websocket-client==1.8.0

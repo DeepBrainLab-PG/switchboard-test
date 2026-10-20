@@ -1,0 +1,443 @@
+{
+    "protocols": {
+        "Protocol 1": {
+            "sequence_1": [
+                7,
+                4,
+                1
+            ],
+            "sequence_2": [
+                7,
+                4,
+                2
+            ],
+            "sequence_3": [
+                7,
+                4,
+                5
+            ],
+            "sequence_4": [
+                7,
+                4,
+                8
+            ],
+            "Button_brightness": 120,
+            "RewardLed_brightness": 255,
+            "sequence_active": "Active",
+            "light_guidance": "On",
+            "sound": "On",
+            "reward_led": "On",
+            "reward_shape": "rectangle",
+            "reward_sound": "On",
+            "reward_amount": 1,
+            "learning_correct_count": 2,
+            "retrieval_error_count": 3,
+            "runtime_minutes": 30,
+            "audio_files": {
+                "button_1_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c1_Switch_one_sound_218954605-dolphin-squeak-voice-1_A_800ms_revised_db.wav",
+                "button_2_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c2_Switch_two_sound_051440341-isolated-frog-croaking-sound-0_800ms_revised.wav",
+                "button_3_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c3_Switch_three_sound_196849149-cricket-sound-night-time_800ms_revised.wav",
+                "button_4_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c4_Switch_four_sound_218954551-dolphin-squeak-voice-6_part_B_800ms_revised.wav",
+                "button_5_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c5_Switch_five_sound_026357699-frog-croak-001_800ms_revised.wav",
+                "button_6_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c6_Switch_six_sound_255126596-city-cricket-night-sounds-5632_800ms_revised.wav",
+                "button_7_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c7_Switch_seven_sound_218954605-dolphin-squeak-voice-1_B_800ms_revised.wav",
+                "button_8_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c8_Switch_eight_sound_051440342-isolated-frog-croaking-sound-0_800ms_revised.wav",
+                "button_9_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c9_Switch_nine_sound_260055016-cricket-sounds-rain-background_800ms_revised.wav",
+                "reward_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/c10_Reward_sound_252385591-vocal-dolphin.wav",
+                "caution_sound": "D:/DeepBrianLAb/Sound/original_file/calibrated sound files/cAlert_Sound_800ms.wav"
+            },
+            "flash_path": "On",
+            "Random_chase": "On",
+            "Optional_sequences": "On",
+            "Optional_Button_Led": "On",
+            "Switching": "On",
+            "flash_count": 3,
+            "led_light_up": "Before button press",
+            "Random_seq": "Off"
+        },
+        "Randomised Sequence": {
+            "sequence_1": [
+                7,
+                4,
+                1
+            ],
+            "sequence_2": [
+                7,
+                4,
+                2
+            ],
+            "sequence_3": [
+                7,
+                4,
+                5
+            ],
+            "sequence_4": [
+                7,
+                4,
+                8
+            ],
+            "Button_brightness": 229,
+            "RewardLed_brightness": 128,
+            "sequence_active": "Active",
+            "light_guidance": "On",
+            "sound": "On",
+            "reward_led": "On",
+            "reward_shape": "rectangle",
+            "reward_sound": "On",
+            "reward_amount": 1,
+            "learning_correct_count": 3,
+            "retrieval_error_count": 3,
+            "runtime_minutes": 30,
+            "audio_files": {
+                "button_1_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/1_Switch_one_sound_218954605-dolphin-squeak-voice-1_A_800ms_revised_-6db.wav",
+                "button_2_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/2_Switch_two_sound_051440341-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_3_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/3_Switch_three_sound_196849149-cricket-sound-night-time_800ms_revised_-6db.wav",
+                "button_4_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/4_Switch_four_sound_218954551-dolphin-squeak-voice-6_part_B_800ms_revised_-6db.wav",
+                "button_5_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/5_Switch_five_sound_026357699-frog-croak-001_800ms_revised_-6db.wav",
+                "button_6_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/6_Switch_six_sound_255126596-city-cricket-night-sounds-5632_800ms_revised_-6db.wav",
+                "button_7_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/7_Switch_seven_sound_218954605-dolphin-squeak-voice-1_B_800ms_revised_-6db.wav",
+                "button_8_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/8_Switch_eight_sound_051440342-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_9_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/9_Switch_nine_sound_260055016-cricket-sounds-rain-background_800ms_revised_-6db.wav",
+                "reward_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/10_Reward_sound_252385591-vocal-dolphin_-6db.wav",
+                "caution_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/Alert_Sound_800ms_-6db.wav"
+            },
+            "flash_path": "On",
+            "Random_chase": "Off",
+            "Optional_sequences": "On",
+            "Optional_Button_Led": "On",
+            "Switching": "Off",
+            "flash_count": 3,
+            "led_light_up": "Before button press",
+            "Random_seq": "On"
+        },
+        "Switching leraning & retrieval": {
+            "sequence_1": [
+                7,
+                4,
+                1
+            ],
+            "sequence_2": [
+                7,
+                4,
+                2
+            ],
+            "sequence_3": [
+                7,
+                4,
+                5
+            ],
+            "sequence_4": [
+                7,
+                4,
+                8
+            ],
+            "Button_brightness": 255,
+            "RewardLed_brightness": 255,
+            "sequence_active": "Active",
+            "light_guidance": "On",
+            "sound": "On",
+            "reward_led": "On",
+            "reward_shape": "rectangle",
+            "reward_sound": "On",
+            "reward_amount": 1,
+            "learning_correct_count": 3,
+            "retrieval_error_count": 3,
+            "runtime_minutes": 30,
+            "audio_files": {
+                "button_1_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/1_Switch_one_sound_218954605-dolphin-squeak-voice-1_A_800ms_revised_-6db.wav",
+                "button_2_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/2_Switch_two_sound_051440341-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_3_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/3_Switch_three_sound_196849149-cricket-sound-night-time_800ms_revised_-6db.wav",
+                "button_4_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/4_Switch_four_sound_218954551-dolphin-squeak-voice-6_part_B_800ms_revised_-6db.wav",
+                "button_5_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/5_Switch_five_sound_026357699-frog-croak-001_800ms_revised_-6db.wav",
+                "button_6_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/6_Switch_six_sound_255126596-city-cricket-night-sounds-5632_800ms_revised_-6db.wav",
+                "button_7_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/7_Switch_seven_sound_218954605-dolphin-squeak-voice-1_B_800ms_revised_-6db.wav",
+                "button_8_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/8_Switch_eight_sound_051440342-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_9_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/9_Switch_nine_sound_260055016-cricket-sounds-rain-background_800ms_revised_-6db.wav",
+                "reward_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/10_Reward_sound_252385591-vocal-dolphin_-6db.wav",
+                "caution_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/Alert_Sound_800ms_-6db.wav"
+            },
+            "flash_path": "On",
+            "Random_chase": "Off",
+            "Optional_sequences": "On",
+            "Optional_Button_Led": "On",
+            "Switching": "On",
+            "flash_count": 3,
+            "led_light_up": "Before button press",
+            "Random_seq": "Off"
+        },
+        "Randomised Chasing": {
+            "sequence_1": [
+                7,
+                4,
+                1
+            ],
+            "sequence_2": [
+                7,
+                4,
+                2
+            ],
+            "sequence_3": [
+                7,
+                4,
+                5
+            ],
+            "sequence_4": [
+                7,
+                4,
+                8
+            ],
+            "Button_brightness": 229,
+            "RewardLed_brightness": 255,
+            "sequence_active": "Active",
+            "light_guidance": "On",
+            "sound": "On",
+            "reward_led": "On",
+            "reward_shape": "rectangle",
+            "reward_sound": "On",
+            "reward_amount": 3,
+            "learning_correct_count": 6,
+            "retrieval_error_count": 3,
+            "runtime_minutes": 30,
+            "audio_files": {
+                "button_1_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/1_Switch_one_sound_218954605-dolphin-squeak-voice-1_A_800ms_revised_-6db.wav",
+                "button_2_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/2_Switch_two_sound_051440341-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_3_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/3_Switch_three_sound_196849149-cricket-sound-night-time_800ms_revised_-6db.wav",
+                "button_4_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/4_Switch_four_sound_218954551-dolphin-squeak-voice-6_part_B_800ms_revised_-6db.wav",
+                "button_5_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/5_Switch_five_sound_026357699-frog-croak-001_800ms_revised_-6db.wav",
+                "button_6_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/6_Switch_six_sound_255126596-city-cricket-night-sounds-5632_800ms_revised_-6db.wav",
+                "button_7_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/7_Switch_seven_sound_218954605-dolphin-squeak-voice-1_B_800ms_revised_-6db.wav",
+                "button_8_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/8_Switch_eight_sound_051440342-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_9_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/9_Switch_nine_sound_260055016-cricket-sounds-rain-background_800ms_revised_-6db.wav",
+                "reward_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/10_Reward_sound_252385591-vocal-dolphin_-6db.wav",
+                "caution_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/Alert_Sound_800ms_-6db.wav"
+            },
+            "flash_path": "On",
+            "Random_chase": "On",
+            "Optional_sequences": "On",
+            "Optional_Button_Led": "On",
+            "Switching": "Off",
+            "flash_count": 6,
+            "led_light_up": "Before button press",
+            "Random_seq": "On"
+        },
+        "Early Training": {
+            "sequence_1": [
+                7,
+                4,
+                1
+            ],
+            "sequence_2": [
+                7,
+                4,
+                2
+            ],
+            "sequence_3": [
+                7,
+                4,
+                5
+            ],
+            "sequence_4": [
+                7,
+                4,
+                8
+            ],
+            "Button_brightness": 56,
+            "RewardLed_brightness": 255,
+            "sequence_active": "Inactive",
+            "light_guidance": "On",
+            "sound": "On",
+            "reward_led": "On",
+            "reward_shape": "rectangle",
+            "reward_sound": "On",
+            "reward_amount": 1,
+            "learning_correct_count": 6,
+            "retrieval_error_count": 3,
+            "runtime_minutes": 30,
+            "audio_files": {
+                "button_1_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/1_Switch_one_sound_218954605-dolphin-squeak-voice-1_A_800ms_revised_-6db.wav",
+                "button_2_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/2_Switch_two_sound_051440341-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_3_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/3_Switch_three_sound_196849149-cricket-sound-night-time_800ms_revised_-6db.wav",
+                "button_4_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/4_Switch_four_sound_218954551-dolphin-squeak-voice-6_part_B_800ms_revised_-6db.wav",
+                "button_5_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/5_Switch_five_sound_026357699-frog-croak-001_800ms_revised_-6db.wav",
+                "button_6_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/6_Switch_six_sound_255126596-city-cricket-night-sounds-5632_800ms_revised_-6db.wav",
+                "button_7_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/7_Switch_seven_sound_218954605-dolphin-squeak-voice-1_B_800ms_revised_-6db.wav",
+                "button_8_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/8_Switch_eight_sound_051440342-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_9_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/9_Switch_nine_sound_260055016-cricket-sounds-rain-background_800ms_revised_-6db.wav",
+                "reward_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/10_Reward_sound_252385591-vocal-dolphin_-6db.wav",
+                "caution_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/Alert_Sound_800ms_-6db.wav"
+            },
+            "flash_path": "On",
+            "Random_chase": "Off",
+            "Optional_sequences": "On",
+            "Optional_Button_Led": "On",
+            "Switching": "Off",
+            "flash_count": 10,
+            "led_light_up": "Before button press",
+            "Random_seq": "Off"
+        },
+        "Sequence Learning": {
+            "sequence_1": [
+                7,
+                4,
+                1
+            ],
+            "sequence_2": [
+                7,
+                4,
+                2
+            ],
+            "sequence_3": [
+                7,
+                4,
+                5
+            ],
+            "sequence_4": [
+                7,
+                4,
+                8
+            ],
+            "Button_brightness": 255,
+            "RewardLed_brightness": 255,
+            "sequence_active": "Active",
+            "light_guidance": "On",
+            "sound": "On",
+            "reward_led": "On",
+            "reward_shape": "rectangle",
+            "reward_sound": "On",
+            "reward_amount": 1,
+            "learning_correct_count": 6,
+            "retrieval_error_count": 3,
+            "runtime_minutes": 30,
+            "audio_files": {
+                "button_1_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/1_Switch_one_sound_218954605-dolphin-squeak-voice-1_A_800ms_revised_-6db.wav",
+                "button_2_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/2_Switch_two_sound_051440341-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_3_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/3_Switch_three_sound_196849149-cricket-sound-night-time_800ms_revised_-6db.wav",
+                "button_4_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/4_Switch_four_sound_218954551-dolphin-squeak-voice-6_part_B_800ms_revised_-6db.wav",
+                "button_5_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/5_Switch_five_sound_026357699-frog-croak-001_800ms_revised_-6db.wav",
+                "button_6_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/6_Switch_six_sound_255126596-city-cricket-night-sounds-5632_800ms_revised_-6db.wav",
+                "button_7_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/7_Switch_seven_sound_218954605-dolphin-squeak-voice-1_B_800ms_revised_-6db.wav",
+                "button_8_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/8_Switch_eight_sound_051440342-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_9_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/9_Switch_nine_sound_260055016-cricket-sounds-rain-background_800ms_revised_-6db.wav",
+                "reward_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/10_Reward_sound_252385591-vocal-dolphin_-6db.wav",
+                "caution_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/Alert_Sound_800ms_-6db.wav"
+            },
+            "flash_path": "On",
+            "Random_chase": "Off",
+            "Optional_sequences": "On",
+            "Optional_Button_Led": "On",
+            "Switching": "Off",
+            "flash_count": 3,
+            "led_light_up": "Before button press",
+            "Random_seq": "Off"
+        },
+        "Sequence Retrieval": {
+            "sequence_1": [
+                7,
+                4,
+                1
+            ],
+            "sequence_2": [
+                7,
+                4,
+                2
+            ],
+            "sequence_3": [
+                7,
+                4,
+                5
+            ],
+            "sequence_4": [
+                7,
+                4,
+                8
+            ],
+            "Button_brightness": 128,
+            "RewardLed_brightness": 128,
+            "sequence_active": "Active",
+            "light_guidance": "Off",
+            "sound": "On",
+            "reward_led": "On",
+            "reward_shape": "rectangle",
+            "reward_sound": "On",
+            "reward_amount": 3,
+            "learning_correct_count": 6,
+            "retrieval_error_count": 3,
+            "runtime_minutes": 30,
+            "audio_files": {
+                "button_1_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/1_Switch_one_sound_218954605-dolphin-squeak-voice-1_A_800ms_revised_-6db.wav",
+                "button_2_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/2_Switch_two_sound_051440341-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_3_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/3_Switch_three_sound_196849149-cricket-sound-night-time_800ms_revised_-6db.wav",
+                "button_4_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/4_Switch_four_sound_218954551-dolphin-squeak-voice-6_part_B_800ms_revised_-6db.wav",
+                "button_5_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/5_Switch_five_sound_026357699-frog-croak-001_800ms_revised_-6db.wav",
+                "button_6_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/6_Switch_six_sound_255126596-city-cricket-night-sounds-5632_800ms_revised_-6db.wav",
+                "button_7_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/7_Switch_seven_sound_218954605-dolphin-squeak-voice-1_B_800ms_revised_-6db.wav",
+                "button_8_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/8_Switch_eight_sound_051440342-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_9_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/9_Switch_nine_sound_260055016-cricket-sounds-rain-background_800ms_revised_-6db.wav",
+                "reward_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/10_Reward_sound_252385591-vocal-dolphin_-6db.wav",
+                "caution_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/Alert_Sound_800ms_-6db.wav"
+            },
+            "flash_path": "On",
+            "Random_chase": "Off",
+            "Optional_sequences": "On",
+            "Optional_Button_Led": "On",
+            "Switching": "Off",
+            "flash_count": 6,
+            "led_light_up": "Before button press",
+            "Random_seq": "Off"
+        },
+        "any new protocol": {
+            "sequence_1": [
+                7,
+                4,
+                1
+            ],
+            "sequence_2": [
+                7,
+                4,
+                2
+            ],
+            "sequence_3": [
+                7,
+                4,
+                5
+            ],
+            "sequence_4": [
+                7,
+                4,
+                8
+            ],
+            "Button_brightness": 128,
+            "RewardLed_brightness": 128,
+            "sequence_active": "Active",
+            "light_guidance": "Off",
+            "sound": "On",
+            "reward_led": "On",
+            "reward_shape": "rectangle",
+            "reward_sound": "On",
+            "reward_amount": 1,
+            "learning_correct_count": 6,
+            "retrieval_error_count": 3,
+            "runtime_minutes": 30,
+            "audio_files": {
+                "button_1_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/1_Switch_one_sound_218954605-dolphin-squeak-voice-1_A_800ms_revised_-6db.wav",
+                "button_2_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/2_Switch_two_sound_051440341-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_3_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/3_Switch_three_sound_196849149-cricket-sound-night-time_800ms_revised_-6db.wav",
+                "button_4_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/4_Switch_four_sound_218954551-dolphin-squeak-voice-6_part_B_800ms_revised_-6db.wav",
+                "button_5_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/5_Switch_five_sound_026357699-frog-croak-001_800ms_revised_-6db.wav",
+                "button_6_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/6_Switch_six_sound_255126596-city-cricket-night-sounds-5632_800ms_revised_-6db.wav",
+                "button_7_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/7_Switch_seven_sound_218954605-dolphin-squeak-voice-1_B_800ms_revised_-6db.wav",
+                "button_8_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/8_Switch_eight_sound_051440342-isolated-frog-croaking-sound-0_800ms_revised_-6db.wav",
+                "button_9_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/9_Switch_nine_sound_260055016-cricket-sounds-rain-background_800ms_revised_-6db.wav",
+                "reward_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/10_Reward_sound_252385591-vocal-dolphin_-6db.wav",
+                "caution_sound": "D:/DeepBrianLAb/Sound/Sounds - chosen final/Sounds - chosen final/Alert_Sound_800ms_-6db.wav"
+            },
+            "flash_path": "Off",
+            "Random_chase": "Off",
+            "Optional_sequences": "On",
+            "Optional_Button_Led": "On",
+            "Switching": "Off",
+            "flash_count": 3,
+            "Random_seq": "Off"
+        }
+    }
+}

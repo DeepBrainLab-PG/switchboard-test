@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software or hardware design, please cite the paper and this repository."
+title: "Switchboard Test: hardware, firmware and software for an operant paradigm assessing sequential spatial memory in rats"
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+repository-code: "https://github.com/DeepBrainLab-PG/switchboard-test"
+authors:
+  - family-names: Sahu
+    given-names: Ravindra
+    affiliation: "Gdańsk University of Technology"
+  - family-names: Jankowski
+    given-names: Maciej M.
+    affiliation: "Gdańsk University of Technology; University of Gdańsk"
+keywords:
+  - behavioural neuroscience
+  - spatial memory
+  - sequence learning
+  - operant conditioning
+  - rat
+  - Arduino
+  - open hardware
+preferred-citation:
+  type: article
+  title: "A quantitative operant paradigm for assessing sequential spatial memory in rats"
+  status: preprint
+  authors:
+    - {family-names: Sahu, given-names: Ravindra}
+    - {family-names: Maćkiewicz, given-names: Krzysztof}
+    - {family-names: Tkachenko, given-names: Dmytro}
+    - {family-names: Żakowski, given-names: Witold}
+    - {family-names: Domkowicz, given-names: Kalina}
+    - {family-names: Polniak, given-names: Olga}
+    - {family-names: Kaźmierska-Grębowska, given-names: Paulina}
+    - {family-names: Wiśniewski, given-names: Daniel}
+    - {family-names: Kotus, given-names: Józef}
+    - {family-names: Niediek, given-names: Johannes}
+    - {family-names: Aggleton, given-names: John P.}
+    - {family-names: O'Mara, given-names: Shane M.}
+    - {family-names: Jankowski, given-names: Maciej M.}
