@@ -1,0 +1,246 @@
+condition,measure,session,stars
+7-4-2,CPR,2,***
+7-4-2,CPR,3,****
+7-4-2,CPR,4,****
+7-4-2,CPR,5,****
+7-4-2,CPR,6,****
+7-4-2,CPR,7,****
+7-4-2,CPR,8,****
+7-4-2,CRP,2,**
+7-4-2,CRP,3,****
+7-4-2,CRP,4,****
+7-4-2,CRP,5,****
+7-4-2,CRP,6,****
+7-4-2,CRP,7,****
+7-4-2,CRP,8,****
+7-4-2,E,2,**
+7-4-2,E,3,****
+7-4-2,E,4,****
+7-4-2,E,5,****
+7-4-2,E,6,****
+7-4-2,E,7,****
+7-4-2,E,8,****
+7-4-2,IPI,2,***
+7-4-2,IPI,3,****
+7-4-2,IPI,4,****
+7-4-2,IPI,5,****
+7-4-2,IPI,6,****
+7-4-2,IPI,7,****
+7-4-2,IPI,8,****
+7-4-2,MS,2,***
+7-4-2,MS,3,****
+7-4-2,MS,4,****
+7-4-2,MS,5,****
+7-4-2,MS,6,****
+7-4-2,MS,7,****
+7-4-2,MS,8,****
+7-5-3,CPR,2,*
+7-5-3,CPR,3,****
+7-5-3,CPR,4,***
+7-5-3,CPR,5,****
+7-5-3,CPR,6,**
+7-5-3,CPR,7,***
+7-5-3,CPR,8,****
+7-5-3,CRP,2,*
+7-5-3,CRP,3,****
+7-5-3,CRP,4,**
+7-5-3,CRP,5,**
+7-5-3,CRP,6,*
+7-5-3,CRP,7,**
+7-5-3,CRP,8,****
+7-5-3,E,2,*
+7-5-3,E,3,**
+7-5-3,E,4,ns
+7-5-3,E,5,**
+7-5-3,E,6,***
+7-5-3,E,7,**
+7-5-3,E,8,**
+7-5-3,IPI,2,ns
+7-5-3,IPI,3,****
+7-5-3,IPI,4,***
+7-5-3,IPI,5,****
+7-5-3,IPI,6,****
+7-5-3,IPI,7,****
+7-5-3,IPI,8,****
+7-5-3,MS,2,**
+7-5-3,MS,3,****
+7-5-3,MS,4,***
+7-5-3,MS,5,****
+7-5-3,MS,6,****
+7-5-3,MS,7,****
+7-5-3,MS,8,****
+7-4-5-2,CPR,2,ns
+7-4-5-2,CPR,3,ns
+7-4-5-2,CPR,4,****
+7-4-5-2,CPR,5,***
+7-4-5-2,CPR,6,****
+7-4-5-2,CPR,7,****
+7-4-5-2,CPR,8,****
+7-4-5-2,CRP,2,ns
+7-4-5-2,CRP,3,ns
+7-4-5-2,CRP,4,ns
+7-4-5-2,CRP,5,ns
+7-4-5-2,CRP,6,ns
+7-4-5-2,CRP,7,ns
+7-4-5-2,CRP,8,ns
+7-4-5-2,E,2,ns
+7-4-5-2,E,3,ns
+7-4-5-2,E,4,ns
+7-4-5-2,E,5,ns
+7-4-5-2,E,6,ns
+7-4-5-2,E,7,ns
+7-4-5-2,E,8,ns
+7-4-5-2,IPI,2,ns
+7-4-5-2,IPI,3,ns
+7-4-5-2,IPI,4,**
+7-4-5-2,IPI,5,ns
+7-4-5-2,IPI,6,***
+7-4-5-2,IPI,7,***
+7-4-5-2,IPI,8,**
+7-4-5-2,MS,2,ns
+7-4-5-2,MS,3,ns
+7-4-5-2,MS,4,ns
+7-4-5-2,MS,5,ns
+7-4-5-2,MS,6,ns
+7-4-5-2,MS,7,ns
+7-4-5-2,MS,8,ns
+7-4-2-1,CPR,2,**
+7-4-2-1,CPR,3,****
+7-4-2-1,CPR,4,****
+7-4-2-1,CPR,5,****
+7-4-2-1,CPR,6,****
+7-4-2-1,CPR,7,****
+7-4-2-1,CPR,8,****
+7-4-2-1,CRP,2,ns
+7-4-2-1,CRP,3,ns
+7-4-2-1,CRP,4,ns
+7-4-2-1,CRP,5,**
+7-4-2-1,CRP,6,****
+7-4-2-1,CRP,7,***
+7-4-2-1,CRP,8,****
+7-4-2-1,E,2,*
+7-4-2-1,E,3,**
+7-4-2-1,E,4,****
+7-4-2-1,E,5,****
+7-4-2-1,E,6,****
+7-4-2-1,E,7,****
+7-4-2-1,E,8,****
+7-4-2-1,IPI,2,ns
+7-4-2-1,IPI,3,ns
+7-4-2-1,IPI,4,**
+7-4-2-1,IPI,5,****
+7-4-2-1,IPI,6,****
+7-4-2-1,IPI,7,****
+7-4-2-1,IPI,8,****
+7-4-2-1,MS,2,*
+7-4-2-1,MS,3,***
+7-4-2-1,MS,4,****
+7-4-2-1,MS,5,****
+7-4-2-1,MS,6,****
+7-4-2-1,MS,7,****
+7-4-2-1,MS,8,****
+7-4-2 random only,CPR,2,ns
+7-4-2 random only,CPR,3,ns
+7-4-2 random only,CPR,4,ns
+7-4-2 random only,CPR,5,ns
+7-4-2 random only,CPR,6,ns
+7-4-2 random only,CPR,7,ns
+7-4-2 random only,CPR,8,ns
+7-4-2 random only,CRP,2,ns
+7-4-2 random only,CRP,3,ns
+7-4-2 random only,CRP,4,ns
+7-4-2 random only,CRP,5,ns
+7-4-2 random only,CRP,6,ns
+7-4-2 random only,CRP,7,*
+7-4-2 random only,CRP,8,ns
+7-4-2 random only,E,2,ns
+7-4-2 random only,E,3,ns
+7-4-2 random only,E,4,ns
+7-4-2 random only,E,5,ns
+7-4-2 random only,E,6,ns
+7-4-2 random only,E,7,ns
+7-4-2 random only,E,8,ns
+7-4-2 random only,IPI,2,ns
+7-4-2 random only,IPI,3,ns
+7-4-2 random only,IPI,4,ns
+7-4-2 random only,IPI,5,ns
+7-4-2 random only,IPI,6,ns
+7-4-2 random only,IPI,7,ns
+7-4-2 random only,IPI,8,ns
+7-4-2 random only,MS,2,ns
+7-4-2 random only,MS,3,ns
+7-4-2 random only,MS,4,ns
+7-4-2 random only,MS,5,ns
+7-4-2 random only,MS,6,ns
+7-4-2 random only,MS,7,ns
+7-4-2 random only,MS,8,ns
+7-5-3 random only,CPR,2,ns
+7-5-3 random only,CPR,3,ns
+7-5-3 random only,CPR,4,****
+7-5-3 random only,CPR,5,****
+7-5-3 random only,CPR,6,****
+7-5-3 random only,CPR,7,****
+7-5-3 random only,CPR,8,****
+7-5-3 random only,CRP,2,ns
+7-5-3 random only,CRP,3,ns
+7-5-3 random only,CRP,4,*
+7-5-3 random only,CRP,5,***
+7-5-3 random only,CRP,6,****
+7-5-3 random only,CRP,7,****
+7-5-3 random only,CRP,8,***
+7-5-3 random only,E,2,ns
+7-5-3 random only,E,3,ns
+7-5-3 random only,E,4,**
+7-5-3 random only,E,5,**
+7-5-3 random only,E,6,**
+7-5-3 random only,E,7,***
+7-5-3 random only,E,8,**
+7-5-3 random only,IPI,2,ns
+7-5-3 random only,IPI,3,ns
+7-5-3 random only,IPI,4,****
+7-5-3 random only,IPI,5,**
+7-5-3 random only,IPI,6,****
+7-5-3 random only,IPI,7,****
+7-5-3 random only,IPI,8,****
+7-5-3 random only,MS,2,ns
+7-5-3 random only,MS,3,ns
+7-5-3 random only,MS,4,***
+7-5-3 random only,MS,5,****
+7-5-3 random only,MS,6,****
+7-5-3 random only,MS,7,****
+7-5-3 random only,MS,8,****
+7-4-2 Random after Fixed,CPR,2,ns
+7-4-2 Random after Fixed,CPR,3,ns
+7-4-2 Random after Fixed,CPR,4,ns
+7-4-2 Random after Fixed,CPR,5,ns
+7-4-2 Random after Fixed,CPR,6,ns
+7-4-2 Random after Fixed,CPR,7,ns
+7-4-2 Random after Fixed,CPR,8,ns
+7-4-2 Random after Fixed,CRP,2,ns
+7-4-2 Random after Fixed,CRP,3,ns
+7-4-2 Random after Fixed,CRP,4,ns
+7-4-2 Random after Fixed,CRP,5,ns
+7-4-2 Random after Fixed,CRP,6,ns
+7-4-2 Random after Fixed,CRP,7,ns
+7-4-2 Random after Fixed,CRP,8,ns
+7-4-2 Random after Fixed,E,2,ns
+7-4-2 Random after Fixed,E,3,ns
+7-4-2 Random after Fixed,E,4,ns
+7-4-2 Random after Fixed,E,5,ns
+7-4-2 Random after Fixed,E,6,ns
+7-4-2 Random after Fixed,E,7,ns
+7-4-2 Random after Fixed,E,8,ns
+7-4-2 Random after Fixed,IPI,2,ns
+7-4-2 Random after Fixed,IPI,3,ns
+7-4-2 Random after Fixed,IPI,4,ns
+7-4-2 Random after Fixed,IPI,5,ns
+7-4-2 Random after Fixed,IPI,6,ns
+7-4-2 Random after Fixed,IPI,7,ns
+7-4-2 Random after Fixed,IPI,8,ns
+7-4-2 Random after Fixed,MS,2,ns
+7-4-2 Random after Fixed,MS,3,ns
+7-4-2 Random after Fixed,MS,4,ns
+7-4-2 Random after Fixed,MS,5,ns
+7-4-2 Random after Fixed,MS,6,ns
+7-4-2 Random after Fixed,MS,7,ns
+7-4-2 Random after Fixed,MS,8,ns
